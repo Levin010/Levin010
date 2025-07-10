@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋, I'm Levin Oyugi</h1>
 <h3 align="center">A passionate Python and Javascript Full-stack Software Developer</h3>
 
-- 🌍 I'm currently based in **Nairobi, Kenya**
+- 🌍 I'm currently based in **Nairobi, Kenya.**
 
-- 🌱 I’m currently learning **more about VueJS and NextJS**
+- 🌱 I’m currently learning **more about the AWS ecosystem.**
 
 - 👯 I’m looking to collaborate on **any interesting Python or Javascript projects.**
 
