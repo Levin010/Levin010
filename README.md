@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Levin010/Levin010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,11 +36,11 @@ Here are some ideas to get you started:
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=levinomwenga&show_icons=true&theme=tokyonight" alt="Levin's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Levin010&show_icons=true&theme=tokyonight" alt="Levin's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=levinomwenga&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Levin010&theme=tokyonight" alt="GitHub streak" />
 </p>
 
 <p align="center">
