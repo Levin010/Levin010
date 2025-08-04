@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **more about the AWS ecosystem.**
 
-- 👯 I’m looking to collaborate on **any interesting Python or Javascript projects.**
+- 👯 I’m looking to collaborate on **any interesting Python/Javascript/AWS Cloud projects.**
 
 - 📫 How to reach me **oyugilevin10@gmail.com**
 
