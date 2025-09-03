@@ -41,10 +41,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Levin010&theme=tokyonight" alt="GitHub streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levin010&layout=compact&theme=tokyonight" />
 </p>
 
