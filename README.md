@@ -3,7 +3,7 @@
 
 
 
-- 🌍 I'm currently based in **Nairobi, Kenya.**
+- 🌍 I'm based in **Nairobi, Kenya.**
 
 - 🌱 I’m currently learning more about **AWS Cloud Computing.**
 
