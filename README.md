@@ -5,7 +5,7 @@
 
 - 🌍 I'm based in **Nairobi, Kenya.**
 
-- 🌱 I’m currently learning more about **AWS Cloud Computing.**
+- 🌱 I’m currently learning more about **AWS Cloud.**
 
 - 👯 I’m looking to collaborate on **any interesting Python/Javascript/AWS Cloud projects.**
 
