@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **any interesting Python/Javascript/AWS Cloud projects.**
 
-- 📫 How to reach me **oyugilevin10@gmail.com**
+- 📫 How to reach me? **oyugilevin10@gmail.com**
 
 ---
 
