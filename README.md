@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning more about **AWS Cloud Computing.**
 
-- 👯 I’m looking to collaborate on **any interesting Python/Javascript/AWS Cloud projects.**
-
 - 📫 How to reach me? **oyugilevin10@gmail.com**
 
 ---
