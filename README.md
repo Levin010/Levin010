@@ -1,5 +1,5 @@
 <h1 align="center">Hey there👋, I'm Levin Oyugi</h1>
-<h3 align="center">A dedicated & industrious Software Developer</h3>
+<h3 align="center">A committed & industrious Software Developer</h3>
 
 
 
