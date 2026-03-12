@@ -5,7 +5,7 @@
 
 - 🌍 I'm based in **Nairobi, Kenya.**
 
-- 🌱 I’m currently learning more about **Delphi and Object Pascal.**
+- 🌱 I’m currently learning more about **Spring Boot and Object Pascal.**
 
 - 📫 How to reach me? **oyugilevin10@gmail.com**
 
